@@ -1,0 +1,41 @@
+{
+  "code": 200,
+  "data": {
+    "pushNumSum": 10,
+    "pushNumAddSum": 18,
+    "firstNumSum": 11,
+    "waitFirstNumSum": 12,
+    "waitFirstNumAddSum": 19,
+    "waitTecNumSum": 13,
+    "waitTecNumAddSum": 20,
+    "waitFinalNumSum": 14,
+    "waitFinalNumAddSum": 21,
+    "waitReviewNumSum": 15,
+    "waitReviewNumAddSum": 22,
+    "waitEntryNumSum": 16,
+    "waitEntryNumAddSum": 21,
+    "entryNumSum": 17,
+    "entryNumAddSum": 22,
+    "processList": [
+      {
+        "publicCol": "第一个字段",
+        "pushNum": 20,
+        "pushNumAdd": 10,
+        "firstNum": 5,
+        "firstNumAdd": 3,
+        "waitFirstNum": 2,
+        "waitFirstNumAdd": 2,
+        "waitTecNum": 4,
+        "waitTecNumAdd": 2,
+        "waitFinalNum": 3,
+        "waitFinalNumAdd": 2,
+        "waitReviewNum": 1,
+        "waitReviewNumAdd": 1,
+        "waitEntryNum": 5,
+        "waitEntryNumAdd": 3,
+        "entryNum": 2,
+        "entryNumAdd": 2
+      }
+    ]
+  }
+}

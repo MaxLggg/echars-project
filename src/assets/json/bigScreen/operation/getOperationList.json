@@ -1,0 +1,88 @@
+{
+  "code": 200,
+  "data": {
+    "list": [
+      {
+        "statisticsName": "收入",
+        "month": 10,
+        "year": "2023",
+        "realityReach": 2000,
+        "unit": 100,
+        "target": 222,
+        "calculateReach": 333,
+        "dvalue": 444
+      },
+      {
+        "statisticsName": "回款",
+        "month": 10,
+        "year": "2023",
+        "realityReach": 2000,
+        "unit": 100,
+        "target": 222,
+        "calculateReach": 333,
+        "dvalue": 444
+      },
+      {
+        "statisticsName": "经营现金流",
+        "month": 10,
+        "year": "2023",
+        "realityReach": 2000,
+        "unit": 100,
+        "target": 222,
+        "calculateReach": 333,
+        "dvalue": 444
+      },
+      {
+        "statisticsName": "贡献利润",
+        "month": 10,
+        "year": "2023",
+        "realityReach": 2000,
+        "unit": 100,
+        "target": 222,
+        "calculateReach": 333,
+        "dvalue": 444
+      },
+      {
+        "statisticsName": "人均收入",
+        "month": 10,
+        "year": "2023",
+        "realityReach": 2000,
+        "unit": 100,
+        "target": 222,
+        "calculateReach": 333,
+        "dvalue": 444
+      },
+      {
+        "statisticsName": "人均成本",
+        "month": 10,
+        "year": "2023",
+        "realityReach": 2000,
+        "unit": 100,
+        "target": 222,
+        "calculateReach": 333,
+        "dvalue": 444
+      },
+      {
+        "statisticsName": "毛利率",
+        "month": 10,
+        "year": "2023",
+        "realityReach": 2000,
+        "unit": 100,
+        "target": 222,
+        "calculateReach": 333,
+        "dvalue": 444
+      },
+      {
+        "statisticsName": "贡献利润率",
+        "month": 10,
+        "year": "2023",
+        "realityReach": 2000,
+        "unit": 100,
+        "target": 222,
+        "calculateReach": 333,
+        "dvalue": 444
+      }
+    ],
+    "month": 10
+  }
+}

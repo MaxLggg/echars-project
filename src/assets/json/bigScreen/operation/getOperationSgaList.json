@@ -1,0 +1,13 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "developCost": 10,
+      "developRate": 20,
+      "manageCost": 30,
+      "manageRate": 40,
+      "saleCost": 50,
+      "saleRate": 60
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "statisticsName": "BDIT1",
+      "calculateReach": 10,
+      "target": 20,
+      "cost": 10,
+      "costRate": 20,
+      "month": 5
+    }
+  ]
+}

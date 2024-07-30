@@ -1,0 +1,20 @@
+{
+  "code": 200,
+  "data": {
+    "entryRate": 0.12,
+    "entryNum": 12,
+    "finalRate": 0.13,
+    "finalNum": 13,
+    "firstRate": 0.14,
+    "firstNum": 14,
+    "hrName": "张三",
+    "pduName": "李四",
+    "publicCol": "招聘组",
+    "pushNum": 15,
+    "pushRate": 0.15,
+    "reviewRate": 0.16,
+    "reviewNum": 16,
+    "tecNum": 17,
+    "tecRate": 0.17
+  }
+}

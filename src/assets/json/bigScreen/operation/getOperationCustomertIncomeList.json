@@ -1,0 +1,11 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "customerGroup": "BDIT2",
+      "income": 10,
+      "incomeRate": 20,
+      "month": 5
+    }
+  ]
+}

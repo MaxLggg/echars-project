@@ -1,0 +1,7 @@
+export const FINANCE_CHART_COLOR = {
+  BLUE: "#3BA1FF",
+  GREEN: "#2FC25B",
+  YELLOW: "#FACC14",
+  PURPLE: "#8543E0",
+  PINK: "#FF3399"
+}

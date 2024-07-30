@@ -1,0 +1,34 @@
+{
+  "code": 200,
+  "data": {
+    "deptName": "武汉",
+    "id": "21354568",
+    "round": 2,
+    "stageList": [
+      {
+        "consumingDay": 10,
+        "deptName": "武汉",
+        "id": "21354568",
+        "round": 2,
+        "sort": 1,
+        "stageName": "面试"
+      },
+      {
+        "consumingDay": 10,
+        "deptName": "武汉",
+        "id": "21354568",
+        "round": 2,
+        "sort": 1,
+        "stageName": "笔试"
+      },
+      {
+        "consumingDay": 10,
+        "deptName": "武汉",
+        "id": "21354568",
+        "round": 2,
+        "sort": 1,
+        "stageName": "测评"
+      }
+    ]
+  }
+}

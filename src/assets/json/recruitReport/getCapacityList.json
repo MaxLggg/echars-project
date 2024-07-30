@@ -1,0 +1,23 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "hrName": "张三",
+      "pushNum": 6,
+      "waitEntryNum": 3,
+      "entryNum": 2,
+      "waitReviewNum": 2,
+      "waitTalkNum": 1,
+      "giveupNum": 1
+    },
+    {
+      "hrName": "李四",
+      "pushNum": 6,
+      "waitEntryNum": 3,
+      "entryNum": 2,
+      "waitReviewNum": 2,
+      "waitTalkNum": 1,
+      "giveupNum": 1
+    }
+  ]
+}

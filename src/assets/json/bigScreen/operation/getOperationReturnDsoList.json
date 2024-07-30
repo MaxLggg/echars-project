@@ -1,0 +1,20 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "dsoApril": 10,
+      "dsoAugust": 10,
+      "dsoDecember": 10,
+      "dsoFebruary": 111,
+      "dsoJanuary": 555,
+      "dsoJuly": 10,
+      "dsoJune": 333,
+      "dsoMarch": 444,
+      "dsoMay": 666,
+      "dsoNum": 777,
+      "dsoOctober": 777,
+      "dsoSeptember": 4,
+      "standardNum": 4
+    }
+  ]
+}

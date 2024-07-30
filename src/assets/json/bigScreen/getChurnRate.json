@@ -1,0 +1,23 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "churnRate": 0.2,
+      "dateMonth": 8,
+      "deptName": "解决方案",
+      "id": "216546",
+      "pdu": "pdu名称",
+      "wastageRate": 0.5,
+      "year": 2024
+    },
+    {
+      "churnRate": 0.3,
+      "dateMonth": 9,
+      "deptName": "解决方案",
+      "id": "216546",
+      "pdu": "pdu名称",
+      "wastageRate": 0.4,
+      "year": 2024
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "dimension": "1",
+      "category": "1",
+      "salaryQuotationRate": 20,
+      "controlPersonRate": 10
+    }
+  ]
+}

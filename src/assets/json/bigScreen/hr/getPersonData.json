@@ -1,0 +1,182 @@
+{
+  "code": 200,
+  "data": {
+    "personCount": {
+      "data": [
+        {
+          "cadreCount": 35,
+          "deptName": "部门1",
+          "id": "4545",
+          "pdu": "pdu名称",
+          "pduId": "754138",
+          "totalCount": 200,
+          "turnoverRate": 0.2,
+          "year": 2024
+        },
+        {
+          "cadreCount": 20,
+          "deptName": "部门2",
+          "id": "4545",
+          "pdu": "pdu名称",
+          "pduId": "754138",
+          "totalCount": 200,
+          "turnoverRate": 0.2,
+          "year": 2024
+        }
+      ]
+    },
+    "personSkill": {
+      "data": [
+        {
+          "pdu": "pdu名称",
+          "pduId": "754138",
+          "skill": "web前端",
+          "skillCount": 8,
+          "skillProportion": 0.33,
+          "year": 2024,
+          "value": 33
+        },
+        {
+          "pdu": "pdu名称",
+          "pduId": "754138",
+          "skill": "java后端",
+          "skillCount": 8,
+          "skillProportion": 0.33,
+          "year": 2024,
+          "value": 33
+        },
+        {
+          "pdu": "pdu名称",
+          "pduId": "754138",
+          "skill": "大数据",
+          "skillCount": 8,
+          "skillProportion": 0.33,
+          "year": 2024,
+          "value": 33
+        }
+      ]
+    },
+    "personDistribution": {
+      "data": [
+        {
+          "pdu": "pdu名称",
+          "pduId": "754138",
+          "rank": "等级1",
+          "rankCount": 1,
+          "rankProportion": 0.5,
+          "year": 2024,
+          "value": 1
+        },
+        {
+          "pdu": "pdu名称",
+          "pduId": "754138",
+          "rank": "等级2",
+          "rankCount": 1,
+          "rankProportion": 0.5,
+          "year": 2024,
+          "value": 1
+        }
+      ]
+    },
+    "personPost": {
+      "data": [
+        {
+          "pdu": "pdu名称",
+          "pduId": "754138",
+          "post": "高层",
+          "postCount": 10,
+          "postProportion": 0.5,
+          "year": 2024,
+          "value": 2
+        },
+        {
+          "pdu": "pdu名称",
+          "pduId": "754138",
+          "post": "中层",
+          "postCount": 10,
+          "postProportion": 0.5,
+          "year": 2024,
+          "value": 2
+        }
+      ]
+    },
+    "personOutRateList": {
+      "data": [
+        {
+          "afterEntryNum": 125,
+          "afterOutNum": 235,
+          "curOnNum": 112,
+          "deptName": "解决方案",
+          "id": "1258",
+          "month": 8,
+          "newEntryNum": 10,
+          "newOutNum": 66,
+          "newOutRate": 6,
+          "newOutRateBaseLine": 13,
+          "outNum": 55,
+          "outRate": 5,
+          "outRateBaseLine": 12,
+          "pdu": "pdu名称",
+          "pduId": "754138",
+          "year": 2024
+        },
+        {
+          "afterEntryNum": 125,
+          "afterOutNum": 235,
+          "curOnNum": 112,
+          "deptName": "解决方案",
+          "id": "1258",
+          "month": 9,
+          "newEntryNum": 10,
+          "newOutNum": 66,
+          "newOutRate": 4,
+          "newOutRateBaseLine": 9,
+          "outNum": 55,
+          "outRate": 7,
+          "outRateBaseLine": 13,
+          "pdu": "pdu名称",
+          "pduId": "754138",
+          "year": 2024
+        }
+      ]
+    },
+    "personEntryOutList": {
+      "data": [
+        {
+          "entryNum": 44,
+          "outNum": 20,
+          "newOutNum": 11,
+          "month": 6
+        },
+        {
+          "entryNum": 33,
+          "outNum": 10,
+          "newOutNum": 5,
+          "month": 7
+        }
+      ]
+    },
+    "personCostPayInfo": [
+      {
+        "cadreCount": 53,
+        "deptName": "解决方案",
+        "id": "1231",
+        "pdu": "pdu名称",
+        "pduId": "754138",
+        "totalCount": 100,
+        "turnoverRate": 0.1,
+        "year": 2024
+      },
+      {
+        "cadreCount": 51,
+        "deptName": "解决方案",
+        "id": "1231",
+        "pdu": "pdu名称",
+        "pduId": "754138",
+        "totalCount": 100,
+        "turnoverRate": 0.2,
+        "year": 2024
+      }
+    ]
+  }
+}

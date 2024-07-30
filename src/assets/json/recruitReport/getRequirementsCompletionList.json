@@ -1,0 +1,59 @@
+{
+  "code": 200,
+  "data": {
+    "personNumBU": 20,
+    "finishNumBU": 10,
+    "timelyFinishNumBU": 5,
+    "finishRateBU": 0.5,
+    "timelyFinishRateBU": 0.2,
+    "pipelineBU": 3,
+    "gapBU": 2,
+    "redNum": 5,
+    "greenNum": 7,
+    "yellowNum": 8,
+    "blockNum": 3,
+    "closeNum": 2,
+    "avgPush": 4,
+    "avgFirst": 6,
+    "avgTec": 8,
+    "avgFinal": 5,
+    "avgFirstToFinal": 1,
+    "requirementList": [
+      {
+        "publicCol": "A",
+        "personNum": 5,
+        "finishNum": 4,
+        "timelyFinishNum": 3,
+        "finishRate": 0.8,
+        "timelyFinishRate": 0.6,
+        "pipeline": 1,
+        "gap": 1,
+        "redNum": 2,
+        "greenNum": 3,
+        "yellowNum": 2,
+        "blockNum": 1,
+        "closeNum": 1,
+        "avgInit": 3,
+        "avgPush": 4,
+        "avgFirst": 5,
+        "avgTec": 6,
+        "avgFinal": 4,
+        "avgFirstToFinal": 2
+      }
+    ],
+    "redList": [
+      {
+        "requireName": "数据中台1",
+        "remaindays": 12,
+        "residualgap": 5
+      }
+    ],
+    "blockList": [
+      {
+        "requireName": "数据中台2",
+        "remaindays": 12,
+        "residualgap": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": {
+    "recruitReportYear": {
+      "recruitTarget": 100,
+      "actualRecruit": 80,
+      "recruitValue": 20,
+      "recruitAdvanceRate": 80,
+      "recruitTimeRate": 80,
+      "netGrowthTarget": 100,
+      "actualNetGrowth": 80,
+      "growthValue": 20,
+      "growthAdvanceRate": 80,
+      "growthTimeRate": 80,
+      "month": 12
+    },
+    "recruitReportMonth": [
+      {
+        "recruitTarget": 100,
+        "actualRecruit": 80,
+        "recruitValue": 20,
+        "recruitAdvanceRate": 80,
+        "recruitTimeRate": 80,
+        "netGrowthTarget": 100,
+        "actualNetGrowth": 80,
+        "growthValue": 20,
+        "growthAdvanceRate": 80,
+        "growthTimeRate": 80,
+        "month": 12
+      },
+      {
+        "recruitTarget": 100,
+        "actualRecruit": 80,
+        "recruitValue": 20,
+        "recruitAdvanceRate": 80,
+        "recruitTimeRate": 80,
+        "netGrowthTarget": 100,
+        "actualNetGrowth": 80,
+        "growthValue": 20,
+        "growthAdvanceRate": 80,
+        "growthTimeRate": 80,
+        "month": 12
+      }
+    ],
+    "recruitCostInfoList": [
+      {
+        "year": 2024,
+        "areaId": "563456",
+        "areaName": "北京",
+        "artificialAverage": 100,
+        "artificialTotal": 100,
+        "bonusAverage": 100,
+        "bonusTotal": 100,
+        "channelAverage": 100,
+        "channelTotal": 100,
+        "deptId": "56345",
+        "deptName": "北京",
+        "id": "563456",
+        "pdu": "563456",
+        "pduId": "563456",
+        "personCostAverage": 100,
+        "statisticsName": "北京",
+        "month": 12
+      },
+      {
+        "year": 2024,
+        "areaId": "563456",
+        "areaName": "成都",
+        "artificialAverage": 100,
+        "artificialTotal": 100,
+        "bonusAverage": 100,
+        "bonusTotal": 100,
+        "channelAverage": 100,
+        "channelTotal": 100,
+        "deptId": "56345",
+        "deptName": "成都",
+        "id": "563456",
+        "pdu": "563456",
+        "pduId": "563456",
+        "personCostAverage": 100,
+        "statisticsName": "成都",
+        "month": 11
+      }
+    ],
+    "resourceAllocationInfoList": [
+      {
+        "allocationRate": 100,
+        "successRate": 100,
+        "month": 12,
+        "year": 2024
+      },
+      {
+        "allocationRate": 100,
+        "successRate": 100,
+        "month": 11,
+        "year": 2024
+      }
+    ],
+    "netGrowthTargetMonth": [
+      {
+        "recruitTarget": 100,
+        "actualRecruit": 80,
+        "recruitValue": 20,
+        "recruitAdvanceRate": 80,
+        "recruitTimeRate": 80,
+        "netGrowthTarget": 100,
+        "actualNetGrowth": 80,
+        "growthValue": 20,
+        "growthAdvanceRate": 80,
+        "growthTimeRate": 80,
+        "month": 12
+      }
+    ],
+    "netGrowthTargetYear": {
+      "recruitTarget": 100,
+      "actualRecruit": 80,
+      "recruitValue": 20,
+      "recruitAdvanceRate": 80,
+      "recruitTimeRate": 80,
+      "netGrowthTarget": 100,
+      "actualNetGrowth": 80,
+      "growthValue": 20,
+      "growthAdvanceRate": 80,
+      "growthTimeRate": 80,
+      "month": 12
+    }
+  }
+}

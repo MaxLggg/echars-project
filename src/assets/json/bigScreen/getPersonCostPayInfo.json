@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "data": {
+    "month": [
+      {
+        "deptName": "解决方案",
+        "month": 6,
+        "pdu": "pdu名称",
+        "pduId": "754138"
+      },
+      {
+        "deptName": "解决方案",
+        "month": 5,
+        "pdu": "pdu名称",
+        "pduId": "754138"
+      }
+    ],
+    "sum": {
+      "sumCost": 100,
+      "subsidyCost": 90,
+      "encourageCost": 10
+    }
+  }
+}

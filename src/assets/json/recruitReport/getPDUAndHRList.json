@@ -1,0 +1,19 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "buName": "解决方案1",
+      "hrName": "李四",
+      "pduFid": "56341384",
+      "pduName": "解决方案",
+      "publicCol": "二楼"
+    },
+    {
+      "buName": "解决方案2",
+      "hrName": "王五",
+      "pduFid": "56341385",
+      "pduName": "解决方案",
+      "publicCol": "三楼"
+    }
+  ]
+}

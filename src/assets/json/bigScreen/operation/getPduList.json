@@ -1,0 +1,12 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "deptName": "BDIT3",
+      "managerId": "1212",
+      "managerName": "张三",
+      "pdu": "商品",
+      "pduId": "656565"
+    }
+  ]
+}
